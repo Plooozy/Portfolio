@@ -34,4 +34,4 @@ Professional retraining in the specialty
 * Quick adaptation
 
 ## Contacts
-:email: honeykurlt@gmail.com 
+honeykurlt@gmail.com 
