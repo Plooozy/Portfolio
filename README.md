@@ -1,5 +1,5 @@
 # Nikita Kurlat
-**Quality Assurance Specialist**
+**Quality Assurance Specialist**  
 ![photo of me](photo.png)
 ## About me
 Dedicated and detail-oriented Junior QA-specialist with
@@ -9,13 +9,13 @@ detecting errors and preventing defects from occuring in
 products. Excited to learn more about the Automation QA
 Engineer role and become a valuable asset to your team.
 ## EducatiEducation Background
-* **Russian Biotechnological University**
+* **Russian Biotechnological University**  
 Informatics and Computer Engineering Completed in 2022
-* **Moscow Power Engineering Institute**
+* **Moscow Power Engineering Institute**  
 Electronics and Nano-electronics
 (Lighting technology and light sources)
 2016-2019
-* **Online educational platform Netology**
+* **Online educational platform Netology**  
 Professional retraining in the specialty
 "QA Engineer"
 2023-2024
