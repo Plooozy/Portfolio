@@ -8,7 +8,7 @@ apply skills gained while studying for IT-company in
 detecting errors and preventing defects from occuring in
 products. Excited to learn more about the Automation QA
 Engineer role and become a valuable asset to your team.
-## EducatiEducation Background
+## Education Background
 * **Russian Biotechnological University**  
 Informatics and Computer Engineering Completed in 2022
 * **Moscow Power Engineering Institute**  
